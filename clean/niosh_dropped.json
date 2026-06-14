@@ -1,0 +1,14 @@
+[
+  {
+    "cas": "108-95-2",
+    "reason": "重复",
+    "dropped_record": {
+      "cas": "108-95-2",
+      "name": "Carbolic Acid",
+      "rel": "5 ppm",
+      "pel": "5 ppm",
+      "idlh": "250 ppm",
+      "first_aid": "腐蚀性，大量水冲洗，就医"
+    }
+  }
+]

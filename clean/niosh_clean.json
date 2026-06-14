@@ -1,0 +1,947 @@
+[
+  {
+    "cas": "67-64-1",
+    "name": "Acetone",
+    "rel": "200 ppm",
+    "pel": "1000 ppm",
+    "idlh": "2500 ppm",
+    "first_aid": "移出污染区域，用大量水冲洗皮肤和眼睛",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "67-56-1",
+    "name": "Methanol",
+    "rel": "200 ppm",
+    "pel": "200 ppm",
+    "idlh": "6000 ppm",
+    "first_aid": "立即就医，误服需诱导呕吐",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "71-43-2",
+    "name": "Benzene",
+    "rel": "0.1 ppm",
+    "pel": "1 ppm",
+    "idlh": "500 ppm",
+    "first_aid": "致癌物，立即移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "108-88-3",
+    "name": "Toluene",
+    "rel": "100 ppm",
+    "pel": "200 ppm",
+    "idlh": "500 ppm",
+    "first_aid": "移出污染区，清洗皮肤，吸氧",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "75-05-8",
+    "name": "Acetonitrile",
+    "rel": "20 ppm",
+    "pel": "40 ppm",
+    "idlh": "500 ppm",
+    "first_aid": "移出污染区，人工呼吸，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "67-63-0",
+    "name": "Isopropyl Alcohol",
+    "rel": "400 ppm",
+    "pel": "400 ppm",
+    "idlh": "2000 ppm",
+    "first_aid": "清洗皮肤和眼睛，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "100-42-5",
+    "name": "Styrene",
+    "rel": "50 ppm",
+    "pel": "100 ppm",
+    "idlh": "700 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "75-09-2",
+    "name": "Dichloromethane",
+    "rel": "25 ppm",
+    "pel": "25 ppm",
+    "idlh": "2300 ppm",
+    "first_aid": "致癌物，移出污染区，吸氧",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "79-01-6",
+    "name": "Trichloroethylene",
+    "rel": "25 ppm",
+    "pel": "100 ppm",
+    "idlh": "1000 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "127-18-4",
+    "name": "Tetrachloroethylene",
+    "rel": "25 ppm",
+    "pel": "100 ppm",
+    "idlh": "150 ppm",
+    "first_aid": "致癌物，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "56-23-5",
+    "name": "Carbon Tetrachloride",
+    "rel": "2 ppm",
+    "pel": "10 ppm",
+    "idlh": "200 ppm",
+    "first_aid": "致癌物，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "75-15-0",
+    "name": "Carbon Disulfide",
+    "rel": "1 ppm",
+    "pel": "20 ppm",
+    "idlh": "500 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "107-21-1",
+    "name": "Ethylene Glycol",
+    "rel": "None",
+    "pel": "50 ppm",
+    "idlh": "None",
+    "first_aid": "误服需立即就医，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "108-95-2",
+    "name": "Phenol",
+    "rel": "5 ppm",
+    "pel": "5 ppm",
+    "idlh": "250 ppm",
+    "first_aid": "腐蚀性，立即清洗皮肤，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1310-73-2",
+    "name": "Sodium Hydroxide",
+    "rel": "2 mg/m3",
+    "pel": "2 mg/m3",
+    "idlh": "10 mg/m3",
+    "first_aid": "腐蚀性，大量水冲洗15分钟，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7664-41-7",
+    "name": "Ammonia",
+    "rel": "25 ppm",
+    "pel": "50 ppm",
+    "idlh": "300 ppm",
+    "first_aid": "移出污染区，人工呼吸，洗眼",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "50-00-0",
+    "name": "Formaldehyde",
+    "rel": "0.016 ppm",
+    "pel": "0.75 ppm",
+    "idlh": "20 ppm",
+    "first_aid": "致癌物，移出污染区，大量水冲洗",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "91-20-3",
+    "name": "Naphthalene",
+    "rel": "10 ppm",
+    "pel": "10 ppm",
+    "idlh": "250 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "78-93-3",
+    "name": "Methyl Ethyl Ketone",
+    "rel": "200 ppm",
+    "pel": "200 ppm",
+    "idlh": "3000 ppm",
+    "first_aid": "移出污染区，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "108-10-1",
+    "name": "Methyl Isobutyl Ketone",
+    "rel": "50 ppm",
+    "pel": "100 ppm",
+    "idlh": "500 ppm",
+    "first_aid": "移出污染区，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "624-83-9",
+    "name": "Methyl Isocyanate",
+    "rel": "0.02 ppm",
+    "pel": "0.02 ppm",
+    "idlh": "3 ppm",
+    "first_aid": "剧毒，立即移出，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "101-68-8",
+    "name": "MDI (Methylene Diphenyl Diisocyanate)",
+    "rel": "0.005 ppm",
+    "pel": "0.02 ppm",
+    "idlh": "0.2 ppm",
+    "first_aid": "致敏，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1309-37-1",
+    "name": "Iron(III) Oxide",
+    "rel": "5 mg/m3",
+    "pel": "10 mg/m3",
+    "idlh": "2500 mg/m3",
+    "first_aid": "清洗皮肤和眼睛",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1314-13-2",
+    "name": "Zinc Oxide",
+    "rel": "5 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "500 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "13463-67-7",
+    "name": "Titanium Dioxide",
+    "rel": "5 mg/m3",
+    "pel": "15 mg/m3",
+    "idlh": "5000 mg/m3",
+    "first_aid": "致癌物，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "144-62-7",
+    "name": "Oxalic Acid",
+    "rel": "1 mg/m3",
+    "pel": "2 mg/m3",
+    "idlh": "500 mg/m3",
+    "first_aid": "腐蚀性，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "75-07-0",
+    "name": "Acetaldehyde",
+    "rel": "25 ppm",
+    "pel": "25 ppm",
+    "idlh": "2000 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "123-86-4",
+    "name": "Butyl Acetate",
+    "rel": "150 ppm",
+    "pel": "200 ppm",
+    "idlh": "1700 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "141-78-6",
+    "name": "Ethyl Acetate",
+    "rel": "400 ppm",
+    "pel": "400 ppm",
+    "idlh": "2000 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "109-99-9",
+    "name": "Tetrahydrofuran",
+    "rel": "200 ppm",
+    "pel": "250 ppm",
+    "idlh": "2000 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "110-54-3",
+    "name": "n-Hexane",
+    "rel": "50 ppm",
+    "pel": "50 ppm",
+    "idlh": "1100 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "64-17-5",
+    "name": "Ethyl Alcohol",
+    "rel": "1000 ppm",
+    "pel": "1000 ppm",
+    "idlh": "3300 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7664-93-9",
+    "name": "Sulfuric Acid",
+    "rel": "1 mg/m3",
+    "pel": "1 mg/m3",
+    "idlh": "15 mg/m3",
+    "first_aid": "腐蚀性，大量水冲洗，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7697-37-2",
+    "name": "Nitric Acid",
+    "rel": "2 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "25 mg/m3",
+    "first_aid": "腐蚀性，大量水冲洗，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7647-01-0",
+    "name": "Hydrogen Chloride",
+    "rel": "5 ppm",
+    "pel": "5 ppm",
+    "idlh": "100 ppm",
+    "first_aid": "腐蚀性，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7782-50-5",
+    "name": "Chlorine",
+    "rel": "0.5 ppm",
+    "pel": "1 ppm",
+    "idlh": "30 ppm",
+    "first_aid": "剧毒，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "630-08-0",
+    "name": "Carbon Monoxide",
+    "rel": "35 ppm",
+    "pel": "50 ppm",
+    "idlh": "1200 ppm",
+    "first_aid": "移出污染区，吸氧，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7727-37-9",
+    "name": "Nitrogen",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "缺氧环境，移出污染区，吸氧",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7782-44-7",
+    "name": "Oxygen",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "助燃气体，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "110-82-7",
+    "name": "Cyclohexane",
+    "rel": "300 ppm",
+    "pel": "300 ppm",
+    "idlh": "1300 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "107-15-3",
+    "name": "Ethylenediamine",
+    "rel": "10 ppm",
+    "pel": "25 ppm",
+    "idlh": "1000 ppm",
+    "first_aid": "致敏，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "100-41-4",
+    "name": "Ethylbenzene",
+    "rel": "100 ppm",
+    "pel": "100 ppm",
+    "idlh": "800 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1330-20-7",
+    "name": "Xylene",
+    "rel": "100 ppm",
+    "pel": "100 ppm",
+    "idlh": "900 ppm",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-23-5",
+    "name": "Sodium",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "遇水燃烧，干粉灭火，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "106-99-0",
+    "name": "1,3-Butadiene",
+    "rel": "1 ppm",
+    "pel": "1 ppm",
+    "idlh": "2000 ppm",
+    "first_aid": "致癌物，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "100-28-7",
+    "name": "Phenyl Isocyanate",
+    "rel": "0.02 ppm",
+    "pel": "0.05 ppm",
+    "idlh": "3 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "584-84-9",
+    "name": "Toluene-2,4-diisocyanate (TDI)",
+    "rel": "0.005 ppm",
+    "pel": "0.02 ppm",
+    "idlh": "0.2 ppm",
+    "first_aid": "致敏，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "91-08-7",
+    "name": "Toluene-2,6-diisocyanate",
+    "rel": "0.005 ppm",
+    "pel": "0.02 ppm",
+    "idlh": "0.2 ppm",
+    "first_aid": "致敏，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "26471-62-5",
+    "name": "Toluene Diisocyanate (mixed)",
+    "rel": "0.005 ppm",
+    "pel": "0.02 ppm",
+    "idlh": "0.2 ppm",
+    "first_aid": "致敏，移出污染区，呼吸防护",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "85-44-9",
+    "name": "Phthalic Anhydride",
+    "rel": "1 ppm",
+    "pel": "2 ppm",
+    "idlh": "100 ppm",
+    "first_aid": "移出污染区，洗眼",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "108-31-6",
+    "name": "Maleic Anhydride",
+    "rel": "0.1 ppm",
+    "pel": "0.25 ppm",
+    "idlh": "50 ppm",
+    "first_aid": "腐蚀性，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "79-10-7",
+    "name": "Acrylic Acid",
+    "rel": "2 ppm",
+    "pel": "2 ppm",
+    "idlh": "50 ppm",
+    "first_aid": "腐蚀性，大量水冲洗",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "141-32-2",
+    "name": "Butyl Acrylate",
+    "rel": "5 ppm",
+    "pel": "10 ppm",
+    "idlh": "750 ppm",
+    "first_aid": "移出污染区，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "140-88-5",
+    "name": "Ethyl Acrylate",
+    "rel": "5 ppm",
+    "pel": "25 ppm",
+    "idlh": "300 ppm",
+    "first_aid": "移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "107-13-1",
+    "name": "Acrylonitrile",
+    "rel": "1 ppm",
+    "pel": "2 ppm",
+    "idlh": "85 ppm",
+    "first_aid": "致癌物，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "119-61-9",
+    "name": "Benzophenone",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "清洗皮肤和眼睛",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "100-52-7",
+    "name": "Benzaldehyde",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "88-89-1",
+    "name": "Picric Acid",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "爆炸性，大量水冲洗，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1310-58-3",
+    "name": "Potassium Hydroxide",
+    "rel": "2 mg/m3",
+    "pel": "2 mg/m3",
+    "idlh": "None",
+    "first_aid": "腐蚀性，大量水冲洗15分钟，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1305-62-0",
+    "name": "Calcium Hydroxide",
+    "rel": "5 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "None",
+    "first_aid": "移出污染区，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "1305-78-8",
+    "name": "Calcium Oxide",
+    "rel": "2 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "25 mg/m3",
+    "first_aid": "腐蚀性，移出污染区，大量水冲洗",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "10043-52-4",
+    "name": "Calcium Chloride",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "清洗皮肤，大量饮水",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7647-14-5",
+    "name": "Sodium Chloride",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "清洗皮肤和眼睛",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7757-79-1",
+    "name": "Potassium Nitrate",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7631-99-4",
+    "name": "Sodium Nitrate",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7722-64-7",
+    "name": "Potassium Permanganate",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "腐蚀性，大量水冲洗",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7681-11-0",
+    "name": "Potassium Iodide",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "饮大量水，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7732-18-5",
+    "name": "Water",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "通常无害，大量摄入需就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "64-19-7",
+    "name": "Acetic Acid",
+    "rel": "10 ppm",
+    "pel": "10 ppm",
+    "idlh": "50 ppm",
+    "first_aid": "腐蚀性，大量水冲洗，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7664-38-2",
+    "name": "Phosphoric Acid",
+    "rel": "1 mg/m3",
+    "pel": "1 mg/m3",
+    "idlh": "1000 mg/m3",
+    "first_aid": "腐蚀性，大量水冲洗",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "10025-87-3",
+    "name": "Phosphorus Oxychloride",
+    "rel": "0.1 ppm",
+    "pel": "0.5 ppm",
+    "idlh": "5 ppm",
+    "first_aid": "剧毒，移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7719-12-2",
+    "name": "Phosphorus Trichloride",
+    "rel": "0.2 ppm",
+    "pel": "0.5 ppm",
+    "idlh": "5 ppm",
+    "first_aid": "腐蚀性，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7723-14-0",
+    "name": "Phosphorus (yellow)",
+    "rel": "0.1 mg/m3",
+    "pel": "0.1 mg/m3",
+    "idlh": "5 mg/m3",
+    "first_aid": "移出污染区，清洗皮肤",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7803-51-2",
+    "name": "Phosphine",
+    "rel": "0.3 ppm",
+    "pel": "0.3 ppm",
+    "idlh": "50 ppm",
+    "first_aid": "剧毒，立即移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7784-42-1",
+    "name": "Arsine",
+    "rel": "0.05 ppm",
+    "pel": "0.05 ppm",
+    "idlh": "5 ppm",
+    "first_aid": "剧毒，立即移出污染区，人工呼吸",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-38-2",
+    "name": "Arsenic",
+    "rel": "0.01 mg/m3",
+    "pel": "0.01 mg/m3",
+    "idlh": "5 mg/m3",
+    "first_aid": "致癌物，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-43-9",
+    "name": "Cadmium",
+    "rel": "0.005 mg/m3",
+    "pel": "0.005 mg/m3",
+    "idlh": "9 mg/m3",
+    "first_aid": "致癌物，移出污染区，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7439-92-1",
+    "name": "Lead",
+    "rel": "0.05 mg/m3",
+    "pel": "0.05 mg/m3",
+    "idlh": "100 mg/m3",
+    "first_aid": "移出污染区，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7439-97-6",
+    "name": "Mercury",
+    "rel": "0.05 mg/m3",
+    "pel": "0.1 mg/m3",
+    "idlh": "10 mg/m3",
+    "first_aid": "剧毒，移出污染区，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-02-0",
+    "name": "Nickel",
+    "rel": "0.015 mg/m3",
+    "pel": "1 mg/m3",
+    "idlh": "10 mg/m3",
+    "first_aid": "致敏，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-36-0",
+    "name": "Antimony",
+    "rel": "0.5 mg/m3",
+    "pel": "0.5 mg/m3",
+    "idlh": "50 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-41-7",
+    "name": "Beryllium",
+    "rel": "0.0005 mg/m3",
+    "pel": "0.002 mg/m3",
+    "idlh": "4 mg/m3",
+    "first_aid": "致癌物，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-47-3",
+    "name": "Chromium",
+    "rel": "0.5 mg/m3",
+    "pel": "1 mg/m3",
+    "idlh": "250 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-50-8",
+    "name": "Copper",
+    "rel": "0.1 mg/m3",
+    "pel": "1 mg/m3",
+    "idlh": "100 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7439-96-5",
+    "name": "Manganese",
+    "rel": "0.02 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "500 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7439-98-7",
+    "name": "Molybdenum",
+    "rel": "5 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "5000 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-66-6",
+    "name": "Zinc",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-22-4",
+    "name": "Silver",
+    "rel": "0.01 mg/m3",
+    "pel": "0.01 mg/m3",
+    "idlh": "10 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-31-5",
+    "name": "Tin",
+    "rel": "2 mg/m3",
+    "pel": "2 mg/m3",
+    "idlh": "100 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-62-2",
+    "name": "Vanadium",
+    "rel": "0.05 mg/m3",
+    "pel": "0.1 mg/m3",
+    "idlh": "35 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-33-7",
+    "name": "Tungsten",
+    "rel": "5 mg/m3",
+    "pel": "10 mg/m3",
+    "idlh": "500 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-25-7",
+    "name": "Tantalum",
+    "rel": "5 mg/m3",
+    "pel": "5 mg/m3",
+    "idlh": "2500 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-03-1",
+    "name": "Niobium",
+    "rel": "5 mg/m3",
+    "pel": "10 mg/m3",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-48-4",
+    "name": "Cobalt",
+    "rel": "0.02 mg/m3",
+    "pel": "0.1 mg/m3",
+    "idlh": "20 mg/m3",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-09-7",
+    "name": "Potassium",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "遇水燃烧，干粉灭火",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-70-2",
+    "name": "Calcium",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7429-90-5",
+    "name": "Aluminum",
+    "rel": "5 mg/m3",
+    "pel": "15 mg/m3",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-21-3",
+    "name": "Silicon",
+    "rel": "5 mg/m3",
+    "pel": "15 mg/m3",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-56-4",
+    "name": "Germanium",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-61-1",
+    "name": "Uranium",
+    "rel": "0.2 mg/m3",
+    "pel": "0.25 mg/m3",
+    "idlh": "10 mg/m3",
+    "first_aid": "放射性，移出污染区，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "7440-32-6",
+    "name": "Titanium",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "74-90-8",
+    "name": "Hydrogen Cyanide",
+    "rel": "4.7 ppm",
+    "pel": "10 ppm",
+    "idlh": "50 ppm",
+    "first_aid": "剧毒，立即移出，人工呼吸，就医",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "74-86-2",
+    "name": "Acetylene",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "移出污染区，通风防火",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "74-85-1",
+    "name": "Ethylene",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "窒息性，移出污染区",
+    "data_completeness": "partial"
+  },
+  {
+    "cas": "74-84-0",
+    "name": "Ethane",
+    "rel": "None",
+    "pel": "None",
+    "idlh": "None",
+    "first_aid": "窒息性，移出污染区",
+    "data_completeness": "partial"
+  }
+]

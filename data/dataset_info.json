@@ -1,0 +1,16 @@
+{
+  "chemagent_lora": {
+    "file_name": "../data/train_converted2.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    }
+  },
+  "chemagent_lora_val": {
+    "file_name": "../data/val_converted2.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    }
+  }
+}
